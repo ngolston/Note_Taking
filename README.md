@@ -1,4 +1,4 @@
-# Note_Taking
+# Note Taking
 
 ![Badge for GitHub repo top language](https://img.shields.io/badge/License-MIT-yellow.svg)
 
